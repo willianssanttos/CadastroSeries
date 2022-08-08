@@ -1,0 +1,15 @@
+C:\Users\willi\documents\dio-dotnet\bin\Debug\net6.0\dio-dotnet.exe
+C:\Users\willi\documents\dio-dotnet\bin\Debug\net6.0\dio-dotnet.deps.json
+C:\Users\willi\documents\dio-dotnet\bin\Debug\net6.0\dio-dotnet.runtimeconfig.json
+C:\Users\willi\documents\dio-dotnet\bin\Debug\net6.0\dio-dotnet.dll
+C:\Users\willi\documents\dio-dotnet\bin\Debug\net6.0\dio-dotnet.pdb
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.csproj.AssemblyReference.cache
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.AssemblyInfoInputs.cache
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.AssemblyInfo.cs
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.dll
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\refint\dio-dotnet.dll
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.pdb
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\dio-dotnet.genruntimeconfig.cache
+C:\Users\willi\documents\dio-dotnet\obj\Debug\net6.0\ref\dio-dotnet.dll
